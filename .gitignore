@@ -1,0 +1,11 @@
+Face_recognition_with_data_Collection.py
+Readme.md
+!Aligned_dataset
+Aligned_dataset/*
+!classifier
+classifier/*
+!raw_dataset
+raw_dataset/*
+Env
+__pycache__
+The Most Inspiring Speech- 4 True Rules To Success - A. P. J. Abdul Kalam.mp4
